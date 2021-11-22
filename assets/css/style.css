@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Road+Rage&family=Shippori+Antique&display=swap');
+body{
+    text-align: justify;
+    font-family: 'Shippori Antique', sans-serif;
+    background-color: #FCEFC5;
+}
+
+.navbar{
+    background-color: #F0BF4C;
+}
+
+.navbar-brand{
+    font-family: 'Road Rage', cursive;
+    font-size: 300%;
+}
+
+.card{
+    width: 18rem;
+    margin: 20px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Road Rage', cursive;
+    font-size: 350%;
+}
+
+.footer{
+    background-color: silver;
+}
