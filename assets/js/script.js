@@ -1,27 +1,27 @@
 $(document).ready(function () {
-    var stock1 = 50;
+    var stock1 = 80;
     $("#zapato-1").append(stock1);
-    var stock2 = 50;
+    var stock2 = 80;
     $("#zapato-2").append(stock2);
-    var stock3 = 50;
+    var stock3 = 80;
     $("#zapato-3").append(stock3);
-    var stock4 = 50;
+    var stock4 = 80;
     $("#zapato-4").append(stock4);
-    var stock5 = 50;
+    var stock5 = 80;
     $("#zapato-5").append(stock5);
-    var stock6 = 50;
+    var stock6 = 80;
     $("#zapato-6").append(stock6);
-    var stock7 = 50;
+    var stock7 = 80;
     $("#zapato-7").append(stock7);
-    var stock8 = 50;
+    var stock8 = 80;
     $("#zapato-8").append(stock8);
-    var stock9 = 50;
+    var stock9 = 80;
     $("#zapato-9").append(stock9);
-    var stock10 = 50;
+    var stock10 = 80;
     $("#zapato-10").append(stock10);
-    var stock11 = 50;
+    var stock11 = 80;
     $("#zapato-11").append(stock11);
-    var stock12 = 50;
+    var stock12 = 80;
     $("#zapato-12").append(stock12);
 
     $("#collapse1").click(function () {
